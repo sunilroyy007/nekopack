@@ -6,6 +6,8 @@ Main source is here [main source](https://github.com/sandy1709/catuserbot) fork 
 
 ## Deploy
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/sunilroyy007/nekopack)
+
 fork this repo and [main repo](https://github.com/sandy1709/catuserbot) and click on deploy
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
